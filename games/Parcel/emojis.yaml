@@ -1,0 +1,12 @@
+"emojis":
+- "name": "parcelblock"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Parcel/images/parcelblock.png"
+- "name": "parcelmagna"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Parcel/images/parcelmagna.png"
+- "name": "parcelbox"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Parcel/images/parcelbox.png"
+- "name": "parcelporter"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Parcel/images/parcelporter.png"
+- "name": "parcelhackman"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Parcel/images/parcelhackman.png"
+"title": "Parcel"

@@ -1,0 +1,12 @@
+"emojis":
+- "name": "kana"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sengoku/images/kana.png"
+- "name": "buddhist"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sengoku/images/buddhist.png"
+- "name": "seppuku"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sengoku/images/seppuku.png"
+- "name": "tsunami"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sengoku/images/tsunami.png"
+- "name": "shinto"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sengoku/images/shinto.png"
+"title": "Sengoku"

@@ -1,0 +1,12 @@
+"emojis":
+- "name": "mug"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cargo Commander/images/mug.png"
+- "name": "cargo"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cargo Commander/images/cargo.png"
+- "name": "vile"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cargo Commander/images/vile.png"
+- "name": "jarbrain"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cargo Commander/images/jarbrain.png"
+- "name": "gnome"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cargo Commander/images/gnome.png"
+"title": "Cargo Commander"

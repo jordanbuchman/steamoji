@@ -1,0 +1,12 @@
+"emojis":
+- "name": "run"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lords of Football/images/run.png"
+- "name": "ball"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lords of Football/images/ball.png"
+- "name": "gym"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lords of Football/images/gym.png"
+- "name": "offside"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lords of Football/images/offside.png"
+- "name": "suit"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lords of Football/images/suit.png"
+"title": "Lords of Football"

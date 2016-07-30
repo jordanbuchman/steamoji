@@ -1,0 +1,12 @@
+"emojis":
+- "name": "spherebot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SickBrick/images/spherebot.png"
+- "name": "mordred"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SickBrick/images/mordred.png"
+- "name": "cambot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SickBrick/images/cambot.png"
+- "name": "turretboss"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SickBrick/images/turretboss.png"
+- "name": "cubot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SickBrick/images/cubot.png"
+"title": "SickBrick"

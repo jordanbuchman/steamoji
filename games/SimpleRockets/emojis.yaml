@@ -1,0 +1,12 @@
+"emojis":
+- "name": "spExplosion"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SimpleRockets/images/spExplosion.png"
+- "name": "spMoon"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SimpleRockets/images/spMoon.png"
+- "name": "spRocket"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SimpleRockets/images/spRocket.png"
+- "name": "spComet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SimpleRockets/images/spComet.png"
+- "name": "spSun"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SimpleRockets/images/spSun.png"
+"title": "SimpleRockets"

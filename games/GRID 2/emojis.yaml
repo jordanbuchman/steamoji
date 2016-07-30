@@ -1,0 +1,12 @@
+"emojis":
+- "name": "car"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/GRID 2/images/car.png"
+- "name": "flag"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/GRID 2/images/flag.png"
+- "name": "helmet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/GRID 2/images/helmet.png"
+- "name": "racetrophy"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/GRID 2/images/racetrophy.png"
+- "name": "wheel"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/GRID 2/images/wheel.png"
+"title": "GRID 2"

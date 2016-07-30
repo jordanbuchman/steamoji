@@ -1,0 +1,10 @@
+"emojis":
+- "name": "teleportitem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Deep Space Dash/images/teleportitem.png"
+- "name": "slowmoitem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Deep Space Dash/images/slowmoitem.png"
+- "name": "Boostitem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Deep Space Dash/images/Boostitem.png"
+- "name": "deathitem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Deep Space Dash/images/deathitem.png"
+"title": "Deep Space Dash"

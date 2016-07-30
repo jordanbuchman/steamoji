@@ -1,0 +1,12 @@
+"emojis":
+- "name": "bed"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Enemy/images/bed.png"
+- "name": "bam"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Enemy/images/bam.png"
+- "name": "dungeon"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Enemy/images/dungeon.png"
+- "name": "buried"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Enemy/images/buried.png"
+- "name": "cottage"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Enemy/images/cottage.png"
+"title": "Enemy"

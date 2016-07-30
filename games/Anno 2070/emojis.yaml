@@ -1,0 +1,12 @@
+"emojis":
+- "name": "techs"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Anno 2070/images/techs.png"
+- "name": "tycoons"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Anno 2070/images/tycoons.png"
+- "name": "ecos"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Anno 2070/images/ecos.png"
+- "name": "infect"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Anno 2070/images/infect.png"
+- "name": "hud"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Anno 2070/images/hud.png"
+"title": "Anno 2070"

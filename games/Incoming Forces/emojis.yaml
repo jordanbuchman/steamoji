@@ -1,0 +1,12 @@
+"emojis":
+- "name": "hoverjet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Incoming Forces/images/hoverjet.png"
+- "name": "waypoint"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Incoming Forces/images/waypoint.png"
+- "name": "lasertank"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Incoming Forces/images/lasertank.png"
+- "name": "kaiyodo"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Incoming Forces/images/kaiyodo.png"
+- "name": "ifhuman"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Incoming Forces/images/ifhuman.png"
+"title": "Incoming Forces"

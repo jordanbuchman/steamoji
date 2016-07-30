@@ -1,0 +1,12 @@
+"emojis":
+- "name": "crabclaw"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Boid/images/crabclaw.png"
+- "name": "gunclaw"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Boid/images/gunclaw.png"
+- "name": "bombclaw"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Boid/images/bombclaw.png"
+- "name": "leechclaw"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Boid/images/leechclaw.png"
+- "name": "venomclaw"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Boid/images/venomclaw.png"
+"title": "Boid"

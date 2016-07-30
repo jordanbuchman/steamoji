@@ -1,0 +1,12 @@
+"emojis":
+- "name": "cp"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cards and Castles/images/cp.png"
+- "name": "gp"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cards and Castles/images/gp.png"
+- "name": "sp"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cards and Castles/images/sp.png"
+- "name": "tickets"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cards and Castles/images/tickets.png"
+- "name": "shards"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cards and Castles/images/shards.png"
+"title": "Cards and Castles"

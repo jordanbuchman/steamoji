@@ -1,0 +1,12 @@
+"emojis":
+- "name": "res"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/QuestRun/images/res.png"
+- "name": "lck"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/QuestRun/images/lck.png"
+- "name": "str"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/QuestRun/images/str.png"
+- "name": "int"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/QuestRun/images/int.png"
+- "name": "dodge"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/QuestRun/images/dodge.png"
+"title": "QuestRun"

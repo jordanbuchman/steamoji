@@ -1,0 +1,12 @@
+"emojis":
+- "name": "Disease"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Spellbind/images/Disease.png"
+- "name": "FireballDirectDamageSpell"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Spellbind/images/FireballDirectDamageSpell.png"
+- "name": "FreezeDamageOverTimeSpell"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Spellbind/images/FreezeDamageOverTimeSpell.png"
+- "name": "Replenish"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Spellbind/images/Replenish.png"
+- "name": "StealLife"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Spellbind/images/StealLife.png"
+"title": "Spellbind"

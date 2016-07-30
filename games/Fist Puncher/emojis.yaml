@@ -1,0 +1,12 @@
+"emojis":
+- "name": "help"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Fist Puncher/images/help.png"
+- "name": "ouch"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Fist Puncher/images/ouch.png"
+- "name": "question"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Fist Puncher/images/question.png"
+- "name": "luchador"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Fist Puncher/images/luchador.png"
+- "name": "thefist"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Fist Puncher/images/thefist.png"
+"title": "Fist Puncher"

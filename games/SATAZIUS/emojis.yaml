@@ -1,0 +1,12 @@
+"emojis":
+- "name": "power_sub"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SATAZIUS/images/power_sub.png"
+- "name": "power_main"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SATAZIUS/images/power_main.png"
+- "name": "bonus"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SATAZIUS/images/bonus.png"
+- "name": "speedup"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SATAZIUS/images/speedup.png"
+- "name": "shield_up"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SATAZIUS/images/shield_up.png"
+"title": "SATAZIUS"

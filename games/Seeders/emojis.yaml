@@ -1,0 +1,12 @@
+"emojis":
+- "name": "bbhat"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Seeders/images/bbhat.png"
+- "name": "skateboard"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Seeders/images/skateboard.png"
+- "name": "hatbox"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Seeders/images/hatbox.png"
+- "name": "beryllium"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Seeders/images/beryllium.png"
+- "name": "powerswitch"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Seeders/images/powerswitch.png"
+"title": "Seeders"

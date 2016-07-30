@@ -1,0 +1,12 @@
+"emojis":
+- "name": "pyro"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Loadout/images/pyro.png"
+- "name": "shell"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Loadout/images/shell.png"
+- "name": "blute"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Loadout/images/blute.png"
+- "name": "beers"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Loadout/images/beers.png"
+- "name": "remote"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Loadout/images/remote.png"
+"title": "Loadout"

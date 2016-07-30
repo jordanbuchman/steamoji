@@ -1,0 +1,12 @@
+"emojis":
+- "name": "BlueBlock"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Escape This/images/BlueBlock.png"
+- "name": "WhiteBlock"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Escape This/images/WhiteBlock.png"
+- "name": "YellowBlock"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Escape This/images/YellowBlock.png"
+- "name": "GreenBlockOverlay"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Escape This/images/GreenBlockOverlay.png"
+- "name": "RedBlockOverlay"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Escape This/images/RedBlockOverlay.png"
+"title": "Escape This"

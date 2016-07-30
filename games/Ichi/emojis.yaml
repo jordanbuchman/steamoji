@@ -1,0 +1,12 @@
+"emojis":
+- "name": "ichi_collect"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Ichi/images/ichi_collect.png"
+- "name": "ichi_block"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Ichi/images/ichi_block.png"
+- "name": "ichi_bluetri"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Ichi/images/ichi_bluetri.png"
+- "name": "ichi_teleport"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Ichi/images/ichi_teleport.png"
+- "name": "ichi_redtri"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Ichi/images/ichi_redtri.png"
+"title": "Ichi"

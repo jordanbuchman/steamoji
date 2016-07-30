@@ -1,0 +1,12 @@
+"emojis":
+- "name": "line"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Mini Metro/images/line.png"
+- "name": "loco"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Mini Metro/images/loco.png"
+- "name": "carriage"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Mini Metro/images/carriage.png"
+- "name": "passenger"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Mini Metro/images/passenger.png"
+- "name": "interchange"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Mini Metro/images/interchange.png"
+"title": "Mini Metro"

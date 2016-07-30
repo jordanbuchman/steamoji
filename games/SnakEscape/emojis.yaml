@@ -1,0 +1,12 @@
+"emojis":
+- "name": "redsnake"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SnakEscape/images/redsnake.png"
+- "name": "bluesnake"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SnakEscape/images/bluesnake.png"
+- "name": "happybear"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SnakEscape/images/happybear.png"
+- "name": "mrapple"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SnakEscape/images/mrapple.png"
+- "name": "energystar"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SnakEscape/images/energystar.png"
+"title": "SnakEscape"

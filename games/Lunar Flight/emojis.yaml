@@ -1,0 +1,12 @@
+"emojis":
+- "name": "ai_fuel"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lunar Flight/images/ai_fuel.png"
+- "name": "ai_repair"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lunar Flight/images/ai_repair.png"
+- "name": "apollo"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lunar Flight/images/apollo.png"
+- "name": "ai_boost"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lunar Flight/images/ai_boost.png"
+- "name": "ai_gyro"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Lunar Flight/images/ai_gyro.png"
+"title": "Lunar Flight"

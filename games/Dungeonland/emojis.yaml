@@ -1,0 +1,12 @@
+"emojis":
+- "name": "fight"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Dungeonland/images/fight.png"
+- "name": "cast"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Dungeonland/images/cast.png"
+- "name": "sneak"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Dungeonland/images/sneak.png"
+- "name": "maestro"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Dungeonland/images/maestro.png"
+- "name": "star"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Dungeonland/images/star.png"
+"title": "Dungeonland"

@@ -1,0 +1,10 @@
+"emojis":
+- "name": "beginner"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Let's Sing 2016/images/beginner.png"
+- "name": "confirmed"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Let's Sing 2016/images/confirmed.png"
+- "name": "experienced"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Let's Sing 2016/images/experienced.png"
+- "name": "popstar"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Let's Sing 2016/images/popstar.png"
+"title": "Let's Sing 2016"

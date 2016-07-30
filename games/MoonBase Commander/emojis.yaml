@@ -1,0 +1,12 @@
+"emojis":
+- "name": "Spaceman"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MoonBase Commander/images/Spaceman.png"
+- "name": "SpaceRocket"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MoonBase Commander/images/SpaceRocket.png"
+- "name": "Hub"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MoonBase Commander/images/Hub.png"
+- "name": "HomeStar"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MoonBase Commander/images/HomeStar.png"
+- "name": "HomePlanet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MoonBase Commander/images/HomePlanet.png"
+"title": "MoonBase Commander"

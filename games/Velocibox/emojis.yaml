@@ -1,0 +1,12 @@
+"emojis":
+- "name": "vflip"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Velocibox/images/vflip.png"
+- "name": "vright"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Velocibox/images/vright.png"
+- "name": "vleft"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Velocibox/images/vleft.png"
+- "name": "vbox"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Velocibox/images/vbox.png"
+- "name": "vvoid"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Velocibox/images/vvoid.png"
+"title": "Velocibox"

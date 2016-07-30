@@ -1,0 +1,12 @@
+"emojis":
+- "name": "EmptyLaserItem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sun Blast/images/EmptyLaserItem.png"
+- "name": "EmptyShieldItem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sun Blast/images/EmptyShieldItem.png"
+- "name": "EmptyFireItem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sun Blast/images/EmptyFireItem.png"
+- "name": "ShipSymbol"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sun Blast/images/ShipSymbol.png"
+- "name": "EmptyWaveGunItem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Sun Blast/images/EmptyWaveGunItem.png"
+"title": "Sun Blast"

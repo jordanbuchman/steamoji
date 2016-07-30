@@ -1,0 +1,12 @@
+"emojis":
+- "name": "parkour"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Game Type/images/parkour.png"
+- "name": "hintarrow"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Game Type/images/hintarrow.png"
+- "name": "cashstack"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Game Type/images/cashstack.png"
+- "name": "curledcat"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Game Type/images/curledcat.png"
+- "name": "flyingdonut"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Game Type/images/flyingdonut.png"
+"title": "Game Type"

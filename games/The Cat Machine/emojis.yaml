@@ -1,0 +1,12 @@
+"emojis":
+- "name": "redcat"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/The Cat Machine/images/redcat.png"
+- "name": "bluecat"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/The Cat Machine/images/bluecat.png"
+- "name": "yellowcat"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/The Cat Machine/images/yellowcat.png"
+- "name": "spacecat"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/The Cat Machine/images/spacecat.png"
+- "name": "sciencecat"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/The Cat Machine/images/sciencecat.png"
+"title": "The Cat Machine"

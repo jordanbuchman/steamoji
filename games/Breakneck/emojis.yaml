@@ -1,0 +1,10 @@
+"emojis":
+- "name": "breakneck_coin"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Breakneck/images/breakneck_coin.png"
+- "name": "breakneck_artifact"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Breakneck/images/breakneck_artifact.png"
+- "name": "breakneck_shard"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Breakneck/images/breakneck_shard.png"
+- "name": "breakneck_ship"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Breakneck/images/breakneck_ship.png"
+"title": "Breakneck"

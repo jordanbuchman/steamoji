@@ -1,0 +1,12 @@
+"emojis":
+- "name": "bigbang"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Trapped Dead/images/bigbang.png"
+- "name": "gas"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Trapped Dead/images/gas.png"
+- "name": "blood"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Trapped Dead/images/blood.png"
+- "name": "ammo"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Trapped Dead/images/ammo.png"
+- "name": "medpack"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Trapped Dead/images/medpack.png"
+"title": "Trapped Dead"

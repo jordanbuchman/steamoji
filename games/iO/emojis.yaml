@@ -1,0 +1,12 @@
+"emojis":
+- "name": "idle"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/iO/images/idle.png"
+- "name": "moveit"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/iO/images/moveit.png"
+- "name": "exit"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/iO/images/exit.png"
+- "name": "float"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/iO/images/float.png"
+- "name": "ride"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/iO/images/ride.png"
+"title": "iO"

@@ -1,0 +1,12 @@
+"emojis":
+- "name": "prisoner"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Prison Architect/images/prisoner.png"
+- "name": "worker"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Prison Architect/images/worker.png"
+- "name": "guard"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Prison Architect/images/guard.png"
+- "name": "perp"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Prison Architect/images/perp.png"
+- "name": "chef"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Prison Architect/images/chef.png"
+"title": "Prison Architect"

@@ -1,0 +1,12 @@
+"emojis":
+- "name": "meleeattack"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Space Hulk Ascension/images/meleeattack.png"
+- "name": "ranged"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Space Hulk Ascension/images/ranged.png"
+- "name": "heavy"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Space Hulk Ascension/images/heavy.png"
+- "name": "psyker"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Space Hulk Ascension/images/psyker.png"
+- "name": "commandericon"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Space Hulk Ascension/images/commandericon.png"
+"title": "Space Hulk Ascension"

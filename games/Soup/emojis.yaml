@@ -1,0 +1,12 @@
+"emojis":
+- "name": "fluffy"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Soup/images/fluffy.png"
+- "name": "food_green"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Soup/images/food_green.png"
+- "name": "bacterial_nuke"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Soup/images/bacterial_nuke.png"
+- "name": "bot_nuke"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Soup/images/bot_nuke.png"
+- "name": "virus_blue"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Soup/images/virus_blue.png"
+"title": "Soup"

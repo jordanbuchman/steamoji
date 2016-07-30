@@ -1,0 +1,12 @@
+"emojis":
+- "name": "movement"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Synchrom/images/movement.png"
+- "name": "rotation"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Synchrom/images/rotation.png"
+- "name": "skilluminati"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Synchrom/images/skilluminati.png"
+- "name": "snip"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Synchrom/images/snip.png"
+- "name": "zen"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Synchrom/images/zen.png"
+"title": "Synchrom"

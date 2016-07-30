@@ -1,0 +1,12 @@
+"emojis":
+- "name": "siegefleet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SPACECOM/images/siegefleet.png"
+- "name": "invasionfleet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SPACECOM/images/invasionfleet.png"
+- "name": "battlefleet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SPACECOM/images/battlefleet.png"
+- "name": "capturedsystem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SPACECOM/images/capturedsystem.png"
+- "name": "groundtroops"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/SPACECOM/images/groundtroops.png"
+"title": "SPACECOM"

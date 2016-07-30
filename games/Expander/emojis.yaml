@@ -1,0 +1,12 @@
+"emojis":
+- "name": "bottleneck"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Expander/images/bottleneck.png"
+- "name": "overpass"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Expander/images/overpass.png"
+- "name": "bridge"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Expander/images/bridge.png"
+- "name": "multipliers"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Expander/images/multipliers.png"
+- "name": "pit"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Expander/images/pit.png"
+"title": "Expander"

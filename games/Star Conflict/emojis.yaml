@@ -1,0 +1,12 @@
+"emojis":
+- "name": "federation"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Star Conflict/images/federation.png"
+- "name": "jericho"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Star Conflict/images/jericho.png"
+- "name": "empire"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Star Conflict/images/empire.png"
+- "name": "starconf"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Star Conflict/images/starconf.png"
+- "name": "evil"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Star Conflict/images/evil.png"
+"title": "Star Conflict"

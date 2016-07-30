@@ -1,0 +1,12 @@
+"emojis":
+- "name": "petebox"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RePete/images/petebox.png"
+- "name": "petebutton"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RePete/images/petebutton.png"
+- "name": "peteface"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RePete/images/peteface.png"
+- "name": "petegem"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RePete/images/petegem.png"
+- "name": "peteswitch"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RePete/images/peteswitch.png"
+"title": "RePete"

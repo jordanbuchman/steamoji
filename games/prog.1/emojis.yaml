@@ -1,0 +1,12 @@
+"emojis":
+- "name": "progfolder"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/prog.1/images/progfolder.png"
+- "name": "progfile"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/prog.1/images/progfile.png"
+- "name": "progbody"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/prog.1/images/progbody.png"
+- "name": "progcreature"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/prog.1/images/progcreature.png"
+- "name": "proghead"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/prog.1/images/proghead.png"
+"title": "prog.1"

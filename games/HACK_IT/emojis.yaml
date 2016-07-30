@@ -1,0 +1,12 @@
+"emojis":
+- "name": "hacked"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/HACK_IT/images/hacked.png"
+- "name": "bruteskull"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/HACK_IT/images/bruteskull.png"
+- "name": "code"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/HACK_IT/images/code.png"
+- "name": "ripcomputer"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/HACK_IT/images/ripcomputer.png"
+- "name": "binary"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/HACK_IT/images/binary.png"
+"title": "HACK_IT"

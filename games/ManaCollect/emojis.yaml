@@ -1,0 +1,12 @@
+"emojis":
+- "name": "circle"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ManaCollect/images/circle.png"
+- "name": "swipe"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ManaCollect/images/swipe.png"
+- "name": "late"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ManaCollect/images/late.png"
+- "name": "grid"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ManaCollect/images/grid.png"
+- "name": "thunder"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ManaCollect/images/thunder.png"
+"title": "ManaCollect"

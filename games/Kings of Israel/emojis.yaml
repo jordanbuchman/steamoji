@@ -1,0 +1,12 @@
+"emojis":
+- "name": "grain"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kings of Israel/images/grain.png"
+- "name": "cattle"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kings of Israel/images/cattle.png"
+- "name": "goldresource"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kings of Israel/images/goldresource.png"
+- "name": "stoneresource"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kings of Israel/images/stoneresource.png"
+- "name": "woodresource"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kings of Israel/images/woodresource.png"
+"title": "Kings of Israel"

@@ -1,0 +1,12 @@
+"emojis":
+- "name": "vektar"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vortex Attack/images/vektar.png"
+- "name": "levelup_powerup"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vortex Attack/images/levelup_powerup.png"
+- "name": "health_powerup"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vortex Attack/images/health_powerup.png"
+- "name": "vortex_powerup"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vortex Attack/images/vortex_powerup.png"
+- "name": "captured"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vortex Attack/images/captured.png"
+"title": "Vortex Attack"

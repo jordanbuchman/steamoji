@@ -1,0 +1,12 @@
+"emojis":
+- "name": "handshake"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vector/images/handshake.png"
+- "name": "cube"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vector/images/cube.png"
+- "name": "vectorcoin"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vector/images/vectorcoin.png"
+- "name": "facepalm"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vector/images/facepalm.png"
+- "name": "wheelchair"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Vector/images/wheelchair.png"
+"title": "Vector"

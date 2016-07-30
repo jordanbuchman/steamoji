@@ -1,0 +1,12 @@
+"emojis":
+- "name": "order"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Gratuitous Space Battles/images/order.png"
+- "name": "nomad"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Gratuitous Space Battles/images/nomad.png"
+- "name": "rebel"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Gratuitous Space Battles/images/rebel.png"
+- "name": "tribe"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Gratuitous Space Battles/images/tribe.png"
+- "name": "outcast"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Gratuitous Space Battles/images/outcast.png"
+"title": "Gratuitous Space Battles"

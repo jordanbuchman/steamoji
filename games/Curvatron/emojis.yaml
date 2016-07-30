@@ -1,0 +1,12 @@
+"emojis":
+- "name": "endless"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Curvatron/images/endless.png"
+- "name": "collect"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Curvatron/images/collect.png"
+- "name": "point"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Curvatron/images/point.png"
+- "name": "snakedance"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Curvatron/images/snakedance.png"
+- "name": "oldsnake"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Curvatron/images/oldsnake.png"
+"title": "Curvatron"

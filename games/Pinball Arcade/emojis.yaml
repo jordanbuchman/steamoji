@@ -1,0 +1,12 @@
+"emojis":
+- "name": "pba_button"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Pinball Arcade/images/pba_button.png"
+- "name": "pba_flasher"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Pinball Arcade/images/pba_flasher.png"
+- "name": "pba_target"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Pinball Arcade/images/pba_target.png"
+- "name": "pba_pinball"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Pinball Arcade/images/pba_pinball.png"
+- "name": "pba_flipper"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Pinball Arcade/images/pba_flipper.png"
+"title": "Pinball Arcade"

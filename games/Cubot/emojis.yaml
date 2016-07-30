@@ -1,0 +1,12 @@
+"emojis":
+- "name": "bluecubot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cubot/images/bluecubot.png"
+- "name": "redcubot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cubot/images/redcubot.png"
+- "name": "orangecubot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cubot/images/orangecubot.png"
+- "name": "greencubot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cubot/images/greencubot.png"
+- "name": "purplecubot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Cubot/images/purplecubot.png"
+"title": "Cubot"

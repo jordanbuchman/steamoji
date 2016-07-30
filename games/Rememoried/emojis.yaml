@@ -1,0 +1,12 @@
+"emojis":
+- "name": "mask_left"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Rememoried/images/mask_left.png"
+- "name": "mask_up"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Rememoried/images/mask_up.png"
+- "name": "mask_right"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Rememoried/images/mask_right.png"
+- "name": "mask_dark"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Rememoried/images/mask_dark.png"
+- "name": "mask_down"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Rememoried/images/mask_down.png"
+"title": "Rememoried"

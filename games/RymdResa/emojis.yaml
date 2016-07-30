@@ -1,0 +1,12 @@
+"emojis":
+- "name": "launch"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RymdResa/images/launch.png"
+- "name": "mined"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RymdResa/images/mined.png"
+- "name": "blip"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RymdResa/images/blip.png"
+- "name": "spacepilot"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RymdResa/images/spacepilot.png"
+- "name": "plan"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/RymdResa/images/plan.png"
+"title": "RymdResa"

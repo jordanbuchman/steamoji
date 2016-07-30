@@ -1,0 +1,12 @@
+"emojis":
+- "name": "HappyGizzy"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ChargeShot/images/HappyGizzy.png"
+- "name": "SadGizzy"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ChargeShot/images/SadGizzy.png"
+- "name": "MadGizzy"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ChargeShot/images/MadGizzy.png"
+- "name": "ShockedGizzy"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ChargeShot/images/ShockedGizzy.png"
+- "name": "TiredGizzy"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/ChargeShot/images/TiredGizzy.png"
+"title": "ChargeShot"

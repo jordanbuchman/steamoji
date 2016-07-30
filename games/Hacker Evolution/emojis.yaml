@@ -1,0 +1,12 @@
+"emojis":
+- "name": "ssh"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Hacker Evolution/images/ssh.png"
+- "name": "irc"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Hacker Evolution/images/irc.png"
+- "name": "ftp"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Hacker Evolution/images/ftp.png"
+- "name": "root"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Hacker Evolution/images/root.png"
+- "name": "404"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Hacker Evolution/images/404.png"
+"title": "Hacker Evolution"

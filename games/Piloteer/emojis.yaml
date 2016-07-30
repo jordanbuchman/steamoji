@@ -1,0 +1,12 @@
+"emojis":
+- "name": "piloteerHead"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Piloteer/images/piloteerHead.png"
+- "name": "jetpack"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Piloteer/images/jetpack.png"
+- "name": "pointerFinger"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Piloteer/images/pointerFinger.png"
+- "name": "trashcan"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Piloteer/images/trashcan.png"
+- "name": "wheelOfCar"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Piloteer/images/wheelOfCar.png"
+"title": "Piloteer"

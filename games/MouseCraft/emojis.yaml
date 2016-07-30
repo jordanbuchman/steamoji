@@ -1,0 +1,12 @@
+"emojis":
+- "name": "cheese"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MouseCraft/images/cheese.png"
+- "name": "tetris"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MouseCraft/images/tetris.png"
+- "name": "gears"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MouseCraft/images/gears.png"
+- "name": "skullcat"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MouseCraft/images/skullcat.png"
+- "name": "mouse"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/MouseCraft/images/mouse.png"
+"title": "MouseCraft"

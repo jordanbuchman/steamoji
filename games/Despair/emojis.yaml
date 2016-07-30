@@ -1,0 +1,12 @@
+"emojis":
+- "name": "lamp"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Despair/images/lamp.png"
+- "name": "big_lock"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Despair/images/big_lock.png"
+- "name": "small_battery"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Despair/images/small_battery.png"
+- "name": "faucet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Despair/images/faucet.png"
+- "name": "weapon_axe"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Despair/images/weapon_axe.png"
+"title": "Despair"

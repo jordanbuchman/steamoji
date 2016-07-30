@@ -1,0 +1,12 @@
+"emojis":
+- "name": "reversi"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Reversi/images/reversi.png"
+- "name": "yinandyang"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Reversi/images/yinandyang.png"
+- "name": "bwcookie"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Reversi/images/bwcookie.png"
+- "name": "whiter"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Reversi/images/whiter.png"
+- "name": "arr"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Reversi/images/arr.png"
+"title": "Reversi"

@@ -1,0 +1,12 @@
+"emojis":
+- "name": "seed"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Storm/images/seed.png"
+- "name": "leaf"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Storm/images/leaf.png"
+- "name": "tree"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Storm/images/tree.png"
+- "name": "redleaf"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Storm/images/redleaf.png"
+- "name": "flower"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Storm/images/flower.png"
+"title": "Storm"

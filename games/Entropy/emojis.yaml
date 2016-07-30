@@ -1,0 +1,12 @@
+"emojis":
+- "name": "hostile"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Entropy/images/hostile.png"
+- "name": "lightspeed"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Entropy/images/lightspeed.png"
+- "name": "honour"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Entropy/images/honour.png"
+- "name": "spacepunk"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Entropy/images/spacepunk.png"
+- "name": "cadet"
+  "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Entropy/images/cadet.png"
+"title": "Entropy"
