@@ -1,7 +1,7 @@
 "emojis":
 - "name": "inyourface"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Marauder/images/inyourface.png"
-- "name": "Punchicken"
+- "name": "punchicken"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Marauder/images/Punchicken.png"
 - "name": "hand2hand"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Marauder/images/hand2hand.png"
@@ -9,6 +9,6 @@
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Marauder/images/helpmeorkillme.png"
 - "name": "letmespeakfrommyheart"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Marauder/images/letmespeakfrommyheart.png"
-- "name": "ToughEnough"
+- "name": "toughenough"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Marauder/images/ToughEnough.png"
 "title": "Marauder"

@@ -1,8 +1,8 @@
 "emojis":
-- "name": "TEI_Matches"
+- "name": "tei_matches"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/The Empty Inn/images/TEI_Matches.png"
-- "name": "TEI_Dead"
+- "name": "tei_dead"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/The Empty Inn/images/TEI_Dead.png"
-- "name": "TEI_Evil"
+- "name": "tei_evil"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/The Empty Inn/images/TEI_Evil.png"
 "title": "The Empty Inn"

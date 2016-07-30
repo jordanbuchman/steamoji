@@ -1,5 +1,5 @@
 "emojis":
-- "name": "SmallTable"
+- "name": "smalltable"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kidnapped/images/SmallTable.png"
 - "name": "bookstack"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kidnapped/images/bookstack.png"
@@ -7,6 +7,6 @@
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kidnapped/images/candlestick.png"
 - "name": "bulb"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kidnapped/images/bulb.png"
-- "name": "Cupboard"
+- "name": "cupboard"
   "src": "https://raw.githubusercontent.com/jordanbuchman/steamoji/master/games/Kidnapped/images/Cupboard.png"
 "title": "Kidnapped"
